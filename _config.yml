@@ -30,7 +30,7 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: easttiger97
   card: summary
 logo: logo.png
 social:
@@ -38,6 +38,6 @@ social:
   links:
     - https://twitter.com/ngzhio
     - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://easttiger97.github.io
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
